@@ -1,7 +1,3 @@
-Here's a comprehensive README template for your project. This template is designed to provide clear documentation for users and contributors, detailing what the project is about, how to set it up, and how to use it.
-
----
-
 # Career Counsellor Application
 
 ## Overview
@@ -90,4 +86,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any inquiries or support, please contact [Corey Sullivan](mailto:coreypsullivan@gmail.com).
-
