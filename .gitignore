@@ -1,0 +1,85 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Custom directories for redacted and flagged elements
+RedactedCode/
+flagged/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Gradio cache and data files
+gradio_cache/
+
+# Flask specific files
+instance/
+*.db
+*.sqlite3
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Flask uploads
+uploads/
+
+# Gradio interface configuration
+interface-config.yaml
+
+# Flask secret key file
+secret_key.txt
+
+# Environment files
+.env
+.env.*
+.venv
+.venv.*
+
+# IDEs and editor directories
+.vscode/
+.idea/
+
+# Miscellaneous
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+*.iml
